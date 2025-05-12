@@ -1,0 +1,8 @@
+pyttsx3
+SpeechRecognition
+pygame
+requests
+unidecode
+playsound3
+pyaudio
+rapidfuzz
