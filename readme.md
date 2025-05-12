@@ -47,3 +47,53 @@ Depois de configurar tudo, basta rodar o seguinte comando para iniciar a assiste
 ```bash
 python main.py
 ```
+
+## 🧑‍💻 Como usar
+
+Após rodar o comando `python main.py`, o projeto será iniciado e a assistente virtual Stella começará a monitorar os comandos de voz. **Para interagir com a Stella**, basta falar algo como:
+
+### Formato de Comando
+
+1. **Fale "Stella" seguido do comando desejado**. Exemplos de comandos incluem:
+   - **"Stella, qual a previsão do tempo?"**
+   - **"Stella, qual é a minha localização?"**
+   - **"Stella, me conta uma piada!"**
+   - **"Stella, qual é o número aleatório?"**
+   
+A assistente irá responder a cada comando de forma vocal e, se necessário, executará ações como consultar APIs externas ou gerar respostas aleatórias.
+
+### Exemplos de uso:
+
+1. **Localização**
+   - Comando: "Stella, qual a minha localização?"
+   - Resposta: A assistente irá dizer algo como "Você está na cidade de [sua cidade]."
+
+2. **Previsão do Clima**
+   - Comando: "Stella, qual a previsão do tempo?"
+   - Resposta: A assistente fornecerá a previsão do tempo para sua cidade, caso tenha configurado corretamente a chave API do OpenWeather.
+
+3. **Piada**
+   - Comando: "Stella, me conta uma piada."
+   - Resposta: A assistente irá contar uma piada aleatória em português.
+
+4. **Número Aleatório**
+   - Comando: "Stella, me dê um número aleatório."
+   - Resposta: A assistente gerará um número aleatório e responderá, por exemplo, "O número aleatório gerado é 7."
+
+Agora a sua assistente virtual está pronta para ser utilizada! Você pode falar com ela a qualquer momento e ela irá responder conforme os comandos que você definir. Divirta-se e explore as funcionalidades de Stella! 😊🎙️
+
+---
+
+## 🏗️ Arquitetura
+
+Stella foi projetada com uma arquitetura procedural para garantir facilidade de manutenção e expansão. A seguir, detalho a estrutura básica do projeto.
+
+### Estrutura de Pastas
+
+```plaintext
+assistente/
+├── audios/
+│   └── 
+├── main.py
+├── requirements.txt
+├── README.md
