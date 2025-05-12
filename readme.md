@@ -97,3 +97,33 @@ assistente/
 ├── main.py
 ├── requirements.txt
 ├── README.md
+```
+
+---
+
+## 🚀 Expanda o seu assistente!
+
+O projeto **Stella** é apenas a base para uma assistente virtual poderosa. Com a arquitetura modular que você encontrou, é muito fácil adicionar novas funcionalidades, integrações e inteligências ao sistema.
+
+### O que você pode adicionar?
+
+- **Integrações com outros serviços**: Você pode facilmente integrar com APIs de terceiros, como serviços de previsão do tempo, notícias, redes sociais, sistemas de automação residencial e muito mais.
+  
+- **Funções inteligentes**: Adicione funcionalidades que utilizam inteligência artificial, como reconhecimento de sentimentos, análise de textos ou até mesmo chatbots avançados.
+
+- **Comandos personalizados**: Crie novos comandos para interagir com sistemas locais ou na web. Adicione qualquer tipo de funcionalidade que atenda às suas necessidades ou crie novas formas de interação com a Stella.
+
+- **Melhorias contínuas**: Com a estrutura modular, você pode sempre melhorar e adicionar novas capacidades à assistente, deixando-a cada vez mais inteligente e interativa.
+
+Esse é apenas o começo! O que você pode fazer com a Stella é ilimitado, e você tem total liberdade para customizar e expandir a inteligência conforme seu gosto e necessidade. Se tiver ideias interessantes, compartilhe com a comunidade e faça sua contribuição para que todos possamos aproveitar!
+
+---
+
+## 👨‍💻 Direitos Autorais
+
+Este projeto é mantido por **Leonardo Alves Fernandes**.
+
+- **Email**: [leonardoaf65572005@gmail.com](mailto:leonardoaf65572005@gmail.com)
+- **Website**: [leonardo-alves.com](https://leonardo-alves.com)
+
+Todos os direitos reservados.
